@@ -1,0 +1,18 @@
+[2022-05-30 16:13:49,698 229488303.py line:4] DEBUG: This message should appear on the console
+[2022-05-30 16:13:49,698 229488303.py line:5] INFO: So should this
+[2022-05-30 16:13:49,699 229488303.py line:6] WARNING: And this, too
+[2022-05-30 16:13:52,158 229488303.py line:4] DEBUG: This message should appear on the console
+[2022-05-30 16:13:52,158 229488303.py line:5] INFO: So should this
+[2022-05-30 16:13:52,158 229488303.py line:6] WARNING: And this, too
+[2022-05-30 16:14:02,762 229488303.py line:4] DEBUG: This message should appear on the console
+[2022-05-30 16:14:02,762 229488303.py line:5] INFO: So should this
+[2022-05-30 16:14:02,762 229488303.py line:6] WARNING: And this, too
+[2022-05-30 16:14:37,424 1117960239.py line:4] DEBUG: This message should appear on the console
+[2022-05-30 16:14:37,425 1117960239.py line:5] INFO: So should this
+[2022-05-30 16:14:37,425 1117960239.py line:6] WARNING: And this, too
+[2022-05-30 16:14:53,047 1117960239.py line:4] DEBUG: This message should appear on the console
+[2022-05-30 16:14:53,048 1117960239.py line:5] INFO: So should this
+[2022-05-30 16:14:53,048 1117960239.py line:6] WARNING: And this, too
+[2022-05-30 16:15:02,715 1117960239.py line:4] DEBUG: This message should appear on the console
+[2022-05-30 16:15:02,716 1117960239.py line:5] INFO: So should this
+[2022-05-30 16:15:02,716 1117960239.py line:6] WARNING: And this, too
